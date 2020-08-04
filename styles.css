@@ -1,0 +1,35 @@
+.nav-bar{
+
+}
+
+h1{
+  font-family: 'Rowdies', cursive;
+  text-align: center;
+  padding-top:  10rem;
+  position: relative;
+  z-index: 1;
+}
+.firstdiv{
+
+  z-index: -1;
+
+}
+.img1{
+  position: absolute;
+  z-index: -1;
+}
+.col1{
+  color:#fb7813;
+}
+.col2{
+  color:#f7f7ee;
+}
+.col3{
+  color: green;
+}
+.seconddiv{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 25rem;
+  position: relative;
+  text-align: center;
+}
